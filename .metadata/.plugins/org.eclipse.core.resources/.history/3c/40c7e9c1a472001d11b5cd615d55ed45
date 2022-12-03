@@ -1,0 +1,96 @@
+package com.example.project.model;
+
+
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+import jakarta.persistence.*;
+
+
+@Entity
+@Table(name = "sis_usuario")
+public class Usuario {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.SEQUENCE)
+	private Long usuarioid;
+	
+	@Column(name = "usuario", nullable = false)
+	private String usuario;
+	@Column(name = "nome", nullable = false)
+	private String nome;
+	@Column(name = "senha", nullable = false) 
+	private String senha;
+	
+//	@Temporal(TemporalType.TIMESTAMP)
+	@Column(name = "datacriacao", nullable = false)
+	private LocalDate datacriacao;
+	
+//	@Temporal(TemporalType.TIMESTAMP)
+	@Column(name = "dataalteracao", nullable = false)
+	private LocalDate dataalteracao;
+		
+	
+	public Long getUsuarioid() {
+		return usuarioid;
+	}
+
+	public void setUsuarioid(Long usuarioid) {
+		this.usuarioid = usuarioid;
+	}
+
+	public String getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(String usuario) {
+		this.usuario = usuario;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getSenha() {
+		return senha;
+	}
+
+	public void setSenha(String senha) {
+		this.senha = senha;
+	}
+
+	public LocalDate getDatacriacao() {
+		return datacriacao;
+	}
+
+	public void setDatacriacao(LocalDate datacriacao) {
+		this.datacriacao = LocalDate.now();
+//		this.datacriacao = LocalDate.of(datacriacao.getYear(), datacriacao.getMonth(), datacriacao.getDayOfMonth());
+	}
+
+	public LocalDate getDataalteracao() {
+		return dataalteracao;
+	}
+
+	public void setDataalteracao(LocalDate dataalteracao) {
+		this.dataalteracao = LocalDate.now();
+//		this.dataalteracao = LocalDate.of(dataalteracao.getYear(), dataalteracao.getMonth(), dataalteracao.getDayOfMonth());
+		
+		
+	}
+
+
+	@Override
+	public String toString() {
+		return "Usuario [usuarioid=" + usuarioid + ", usuario=" + usuario + ", nome=" + nome + ", senha=" + senha
+				+ ", datacriacao=" + datacriacao + ", dataalteracao=" + dataalteracao + "]";
+	}
+	
+		
+}
