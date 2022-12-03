@@ -1,0 +1,20 @@
+package com.example.project.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import com.example.project.model.Usuario;
+
+@Repository
+public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
+	
+	@Query(value = "SELECT u FROM restapi.sis_usuario WHERE u.usuario = ?1  AND u.senha = ?2")
+	List<Usuario> getUsuario(String usuario, String senha);
+//	List<Usuario> findByUserAndPswr(String usuario, String senha);
+	
+	List<Usuario> findByNome(String nome);
+}

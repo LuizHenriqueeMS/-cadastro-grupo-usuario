@@ -1,0 +1,47 @@
+package com.example.project.model;
+
+
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "sis_grupo_usuario")
+public class GrupoUsuario {
+	
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int id; 
+	
+	@Column(insertable=false, updatable=false)
+	@JoinColumn(name = "grupoid", referencedColumnName = "grupoid")
+	@MapsId
+	private int grupoid;
+	
+	@Column(insertable=false, updatable=false)
+	@JoinColumn(name = "usuarioid", referencedColumnName = "usuarioid")
+	@MapsId
+	private int usuarioid;
+
+	public int getGrupoid() {
+		return grupoid;
+	}
+
+	public void setGrupoid(int grupoid) {
+		this.grupoid = grupoid;
+	}
+
+	public int getUsuarioid() {
+		return usuarioid;
+	}
+
+	public void setUsuarioid(int usuarioid) {
+		this.usuarioid = usuarioid;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+	
+}

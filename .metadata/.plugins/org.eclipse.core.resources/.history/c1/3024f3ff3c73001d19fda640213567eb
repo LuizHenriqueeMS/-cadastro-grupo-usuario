@@ -1,0 +1,35 @@
+package com.example.project.model;
+
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "sis_grupo_usuario")
+public class GrupoUsuario {
+	
+	@JoinColumns({
+        @JoinColumn(name="grupo_id", referencedColumnName="grupoid"),
+        @JoinColumn(name="usuario_id", referencedColumnName="grupoid")
+    })
+	
+	private int grupoid;
+
+	@Id
+	private int usuarioid;
+
+	public int getGrupoid() {
+		return grupoid;
+	}
+
+	public void setGrupoid(int grupoid) {
+		this.grupoid = grupoid;
+	}
+
+	public int getUsuarioid() {
+		return usuarioid;
+	}
+
+	public void setUsuarioid(int usuarioid) {
+		this.usuarioid = usuarioid;
+	}
+
+}

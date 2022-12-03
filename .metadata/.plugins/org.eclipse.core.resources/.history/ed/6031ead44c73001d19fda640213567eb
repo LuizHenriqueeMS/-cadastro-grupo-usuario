@@ -1,0 +1,21 @@
+package com.example.project.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.project.repository.GrupoUsuarioRepository;
+
+@RestController
+@RequestMapping("/api")
+public class GrupoUsuarioController {
+	
+	@Autowired
+	private GrupoUsuarioRepository grupoUsuarioRepository;
+	
+	@GetMapping("/usuario")
+	public List<GrupoUsuario> consultarGrupoUsuario(){
+		return grupoUsuarioRepository.findAll();
+	}
+	
+}

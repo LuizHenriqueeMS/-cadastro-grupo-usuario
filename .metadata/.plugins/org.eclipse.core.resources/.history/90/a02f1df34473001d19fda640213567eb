@@ -1,0 +1,31 @@
+package com.example.project.model;
+
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "sis_grupo_usuario")
+public class GrupoUsuario {
+	
+
+	private int grupoid_;
+
+	@Id
+	private int usuarioid_;
+
+	public int getGrupoid() {
+		return grupoid_;
+	}
+
+	public void setGrupoid(int grupoid) {
+		this.grupoid_ = grupoid;
+	}
+
+	public int getUsuarioid() {
+		return usuarioid_;
+	}
+
+	public void setUsuarioid(int usuarioid) {
+		this.usuarioid_ = usuarioid;
+	}
+
+}

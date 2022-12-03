@@ -1,0 +1,32 @@
+package com.example.project.model;
+
+import jakarta.persistence.*;
+
+@Table(name = "sis_grupo_usuario")
+public class GrupoUsuario {
+	
+	@Column(nullable = true)
+	@OneToOne(mappedBy = "grupoid", cascade = CascadeType.ALL, optional = false)
+	private int grupoid;
+	
+	@OneToOne(mappedBy = "usuarioid", cascade = CascadeType.ALL, optional = false)
+	@Column(nullable = true)
+	private int usuarioid;
+
+	public int getGrupoid() {
+		return grupoid;
+	}
+
+	public void setGrupoid(int grupoid) {
+		this.grupoid = grupoid;
+	}
+
+	public int getUsuarioid() {
+		return usuarioid;
+	}
+
+	public void setUsuarioid(int usuarioid) {
+		this.usuarioid = usuarioid;
+	}
+	
+}

@@ -1,0 +1,36 @@
+package com.example.project.model;
+
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "sis_grupo_usuario")
+public class GrupoUsuario {
+	
+	
+	
+	@OneToOne(mappedBy = "grupo")
+	@JoinColumn(name="grupo_id", referencedColumnName="grupoid")
+	private Grupo grupoid;
+
+	@Id
+	@OneToOne(mappedBy = "usuario")
+	@JoinColumn(name="usuario_id", referencedColumnName="usuarioid")
+	private Usuario usuarioid;
+
+	public int getGrupoid() {
+		return grupoid.getGrupoid();
+	}
+
+	public void setGrupoid(int grupoid) {
+		this.grupoid.setGrupoid(grupoid);
+	}
+
+	public int getUsuarioid() {
+		return usuarioid.getUsuarioid();
+	}
+
+	public void setUsuarioid(int usuarioid) {
+		this.usuarioid.setUsuarioid(usuarioid);
+	}
+
+}
