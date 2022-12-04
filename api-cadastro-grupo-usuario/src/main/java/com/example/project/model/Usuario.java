@@ -5,6 +5,8 @@ import java.sql.Date;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.jsonFormatVisitors.JsonFormatTypes;
 
 import jakarta.persistence.*;
 
@@ -23,6 +25,7 @@ public class Usuario {
 	@Column(name = "nome", nullable = false, length = 100)
 	private String nome;
 	
+	@JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
 	@Column(name = "senha", nullable = false, length = 100) 
 	private String senha;
 	
