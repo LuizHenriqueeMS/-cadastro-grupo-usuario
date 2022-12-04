@@ -67,7 +67,7 @@ public class Usuario {
 	}
 
 	public String getSenha() {
-		return "";
+		return senha;
 	}
 
 	public void setSenha(String senha) {
@@ -106,6 +106,13 @@ public class Usuario {
 	public Usuario() {
 		
 	}
+	
+	
+	public Usuario(String usuario, String senha) {
+		this.usuario = usuario;
+		this.senha = senha;
+	}
+	
 	
 	//Construtor para testes
 	public Usuario(String usuario, String nome, String senha) {

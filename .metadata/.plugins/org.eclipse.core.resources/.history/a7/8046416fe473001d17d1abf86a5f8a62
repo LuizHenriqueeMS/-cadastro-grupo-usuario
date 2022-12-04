@@ -1,0 +1,23 @@
+package com.example.project.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.project.model.Usuario;
+import com.example.project.repository.UsuarioRepository;
+
+@Service
+public class UsuarioService {
+
+	@Autowired
+	private UsuarioRepository usuarioRepository;
+	
+	public String login(String usuario, String senha) {
+		Optional<Usuario> user = usuarioRepository.loginbyUsuarioSenha(usuario, senha);
+		
+		return null;
+	}
+	
+}

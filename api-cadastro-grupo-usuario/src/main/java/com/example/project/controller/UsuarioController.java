@@ -9,17 +9,20 @@ import org.springframework.web.bind.annotation.*;
 import com.example.project.model.Usuario;
 import com.example.project.repository.UsuarioRepository;
 
-
 @RestController
 @RequestMapping("/api/")
 public class UsuarioController {
-		
+			
 	@Autowired
 	private UsuarioRepository usuarioRepository;
-		
+	
 	@PostMapping("/login")
-	public String login(String usuario, String senha){
-		return usuarioRepository.loginbyUsuarioSenha(usuario, senha);
+	public String login(@RequestBody Usuario loginUsuario){
+		if(usuarioRepository.loginbyUsuarioSenha(loginUsuario.getUsuario(), loginUsuario.getSenha()) == "false") {
+			return "usuario nao encontrado";
+		} else {
+			return "logado";
+		}
 	}
 	
 	@PostMapping("/usuario")
