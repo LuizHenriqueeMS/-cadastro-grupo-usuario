@@ -30,11 +30,21 @@ public class UsuarioController {
 		return ResponseEntity.ok((usuarioRepository.save(usuario)));
 	}
 	
-	@GetMapping("/usuario/{id}")
-	public Optional<Usuario> consultarUsuariosId(@PathVariable int id) {
+	@GetMapping(path = "/usuario/{id}")
+	public Optional<Usuario> consultarUsuariosId(@PathVariable String id) {
+		try {
+			return usuarioRepository.findById(Integer.parseInt(id));
+		} catch (Exception e) {
+			return usuarioRepository.findByNome(id);
+		}
 		
-		return usuarioRepository.findById(id);
+		
 	}
 
+		@GetMapping(path = "/usuario/", params = "{nome}")
+	public Optional<Usuario> consultarUsuariosNome(@PathVariable String nome) {
+		
+		return usuarioRepository.findByNome(nome);
+	}
 	
 }
