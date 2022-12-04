@@ -1,0 +1,20 @@
+package com.example.project.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.apache.coyote.http11.filters.SavedRequestInputFilter;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import com.example.project.model.Usuario;
+
+@Repository
+public interface UsuarioRepository extends JpaRepository<Usuario, Integer>{
+	
+	@Query("SELECT u FROM sis_usuario as u WHERE usuario = :senha AND senha = :senha")
+	List<Usuario> login(@Param("usuario") String nome,@Param("senha") String senha);
+	
+}

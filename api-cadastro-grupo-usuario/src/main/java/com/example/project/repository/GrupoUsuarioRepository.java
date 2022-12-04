@@ -7,5 +7,5 @@ import com.example.project.model.GrupoUsuario;
 
 @Repository
 public interface GrupoUsuarioRepository extends JpaRepository<GrupoUsuario, Integer>{
-
+	
 }

@@ -1280,3 +1280,263 @@
 2022-12-03 18:56:57,693 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-03 18:56:57,717 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-03 18:56:57,722 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:14:03,795 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:14:03,819 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:14:03,823 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:14:27,758 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:14:27,765 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:14:27,768 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:14:29,882 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:14:29,893 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:14:29,897 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:14:31,059 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:14:31,071 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:14:31,076 [Worker-213: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:15:07,209 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:15:07,216 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:15:07,220 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:15:21,861 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:15:21,866 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:15:21,870 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:16:21,554 [Worker-219: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:16:21,558 [Worker-219: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:16:21,559 [Worker-219: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:18:16,960 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:18:16,964 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:18:16,967 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:39:03,822 [Worker-230: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:39:03,828 [Worker-230: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:39:03,830 [Worker-230: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:39:41,482 [Worker-231: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:39:41,486 [Worker-231: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:39:41,488 [Worker-231: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:41:15,227 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:41:15,232 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:41:15,235 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:47:39,747 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:47:39,751 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:47:39,753 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:48:03,694 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:48:03,699 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:48:03,701 [Worker-233: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:48:37,845 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:48:37,851 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:48:37,853 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:49:17,451 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:49:17,455 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:49:17,458 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:49:39,568 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:49:39,574 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:49:39,576 [Worker-238: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:51:38,947 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:51:38,953 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:51:38,955 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:52:01,888 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:52:01,894 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:52:01,896 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:54:22,179 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:54:22,185 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:54:22,187 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 19:58:32,543 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 19:58:32,548 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 19:58:32,550 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:00:26,204 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:00:26,209 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:00:26,210 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:01:15,701 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:01:15,705 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:01:15,707 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:01:24,865 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:01:24,869 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:01:24,871 [Worker-237: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:02:57,834 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:02:57,839 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:02:57,841 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:03:22,911 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:03:22,981 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:03:23,025 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:06:03,584 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:06:03,590 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:06:03,593 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:07:14,234 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:07:14,239 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:07:14,241 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:08:45,404 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:08:45,409 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:08:45,411 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:09:01,924 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:09:01,929 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:09:01,931 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:09:16,132 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:09:16,138 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:09:16,140 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:10:39,482 [Worker-254: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:10:39,488 [Worker-254: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:10:39,490 [Worker-254: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:11:08,595 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:11:08,600 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:11:08,601 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:11:16,542 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:11:16,546 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:11:16,548 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:11:25,064 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:11:25,068 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:11:25,069 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:11:32,612 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:11:32,652 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:11:32,654 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:12:24,518 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:12:24,538 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:12:24,540 [Worker-256: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:14:03,878 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:14:03,884 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:14:03,886 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:14:17,054 [Worker-255: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:14:17,059 [Worker-255: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:14:17,062 [Worker-255: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:14:58,776 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:14:58,784 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:14:58,785 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:21:10,347 [Worker-260: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:21:10,353 [Worker-260: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:21:10,356 [Worker-260: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:23:49,297 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:23:49,303 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:23:49,304 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:24:28,845 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:24:28,851 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:24:28,854 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:25:02,925 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:25:02,929 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:25:02,931 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:25:11,450 [Worker-259: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:25:11,456 [Worker-259: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:25:11,458 [Worker-259: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:27:23,028 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:27:23,033 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:27:23,035 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:28:57,506 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:28:57,510 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:28:57,513 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:30:02,147 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:30:02,150 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:30:02,152 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:31:14,335 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:31:14,339 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:31:14,341 [Worker-261: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:33:12,854 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:33:12,858 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:33:12,860 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:34:36,992 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:34:36,998 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:34:37,000 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:39:07,575 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:39:07,582 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:39:07,584 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:40:46,899 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:40:46,906 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:40:46,909 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:46:48,160 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:46:48,165 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:46:48,168 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:48:00,879 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:48:00,884 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:48:00,886 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:48:11,873 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:48:11,877 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:48:11,879 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:49:00,704 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:49:00,708 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:49:00,710 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:49:52,864 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:49:52,868 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:49:52,870 [Worker-271: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:51:14,743 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:51:14,749 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:51:14,752 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:51:40,916 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:51:40,920 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:51:40,922 [Worker-267: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:52:23,264 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:52:23,269 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:52:23,271 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:52:38,662 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:52:38,666 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:52:38,669 [Worker-272: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:53:35,047 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:53:35,053 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:53:35,054 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 20:58:06,535 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 20:58:06,542 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 20:58:06,545 [Worker-269: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:00:28,862 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:00:28,867 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:00:28,868 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:01:00,052 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:01:00,059 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:01:00,061 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:01:21,114 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:01:21,118 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:01:21,119 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:02:13,848 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:02:13,852 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:02:13,854 [Worker-275: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:03:11,978 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:03:11,985 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:03:11,988 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:05:01,446 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:05:01,459 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:05:01,461 [Worker-273: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:08:07,146 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:08:07,150 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:08:07,151 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:10:22,188 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:10:22,194 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:10:22,196 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:11:04,270 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:11:04,274 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:11:04,276 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:11:27,371 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:11:27,375 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:11:27,377 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:12:52,121 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:12:52,125 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:12:52,127 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:13:56,250 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:13:56,254 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:13:56,255 [Worker-280: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:22:24,391 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:22:24,402 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:22:24,405 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:23:46,057 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:23:46,062 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:23:46,063 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:23:58,840 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:23:58,844 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:23:58,846 [Worker-287: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:26:08,250 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:26:08,256 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:26:08,258 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:26:34,651 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:26:34,657 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:26:34,659 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:28:49,012 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:28:49,025 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:28:49,027 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:30:00,970 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:30:00,974 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:30:00,976 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:30:14,711 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:30:14,716 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:30:14,718 [Worker-291: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:31:54,644 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:31:54,648 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:31:54,650 [Worker-290: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:32:17,376 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:32:17,391 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:32:17,393 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:32:27,006 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:32:27,023 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-03 21:32:27,025 [Worker-289: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\luizz\Desktop\api-cadastro\api-cadastro-grupo-usuario\src\test\resources
+2022-12-03 21:35:25,585 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-03 21:35:25,590 [Worker-286: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

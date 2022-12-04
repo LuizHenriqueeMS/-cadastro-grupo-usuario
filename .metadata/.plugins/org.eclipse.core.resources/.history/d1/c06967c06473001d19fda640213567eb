@@ -1,0 +1,19 @@
+package com.example.project.service;
+
+import org.springframework.stereotype.Service;
+
+import com.example.project.repository.UsuarioRepository;
+
+@Service
+public class UsuarioService {
+
+	private UsuarioRepository usuariorespoRepository;
+	
+	public String login(String usuario, String senha) {
+		
+		usuariorespoRepository.findAll(Usu)
+		
+		return null;
+	}	
+	
+}

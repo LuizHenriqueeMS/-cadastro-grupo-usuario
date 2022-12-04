@@ -3,6 +3,9 @@ package com.example.project.model;
 
 import java.sql.Date;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import jakarta.persistence.*;
 
 
@@ -23,15 +26,17 @@ public class Usuario {
 	@Column(name = "senha", nullable = false, length = 100) 
 	private String senha;
 	
+	@JsonFormat(pattern="dd/MM/yyyy")
 	@Column(name = "datacriacao", nullable = true)
 	@Temporal(TemporalType.DATE)
 	private Date datacriacao = new Date(System.currentTimeMillis());
 	
+	@JsonFormat(pattern="dd/MM/yyyy")
 	@Column(name = "dataalteracao", nullable = true)
 	@Temporal(TemporalType.DATE)
 	private Date dataalteracao = new Date(System.currentTimeMillis()); 
 		
-	
+	@JsonIgnore
 	@OneToOne
 	private GrupoUsuario rUsuario;
 	
@@ -62,7 +67,7 @@ public class Usuario {
 	}
 
 	public String getSenha() {
-		return senha;
+		return "";
 	}
 
 	public void setSenha(String senha) {

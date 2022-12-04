@@ -1,0 +1,22 @@
+package com.example.project.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Repository;
+
+import com.example.project.model.Usuario;
+
+@Repository
+public interface UsuarioRepository extends JpaRepository<Usuario, Integer>{
+	
+	@Query(value = "SELECT u FROM sis_usuario as u WHERE u.usuario = ?1 AND u.senha = ?2", nativeQuery = true)
+	public ResponseEntity<Usuario> login(String usuario,String senha);
+
+//	@Query("FROM sis_usuario WHERE usuario = :usuario")
+//	public List<Usuario> usuario(@Param("usuario") String usuario);
+	
+}

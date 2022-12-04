@@ -2,6 +2,9 @@ package com.example.project.model;
 
 import java.sql.Date;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -15,12 +18,15 @@ public class Grupo {
 	@Column(length = 100)
 	private String nome;
 	
+	@JsonFormat(pattern="dd/MM/yyyy")
 	@Temporal(TemporalType.DATE)
 	private Date datacriacao = new Date(System.currentTimeMillis());
 	
+	@JsonFormat(pattern="dd/MM/yyyy")
 	@Temporal(TemporalType.DATE)
 	private Date dataalteracao = new Date(System.currentTimeMillis());
 	
+	@JsonIgnore
 	@OneToOne
 	private GrupoUsuario rGrupo;
 	
