@@ -9,9 +9,11 @@ import jakarta.persistence.*;
 public class GrupoUsuario {
 	
 	@OneToMany
+	@Transient
 	private List<Usuario> usuario;
 	
 	@OneToMany
+	@Transient
 	private List<Grupo> grupo;
 	
 	@Column(nullable = true)
